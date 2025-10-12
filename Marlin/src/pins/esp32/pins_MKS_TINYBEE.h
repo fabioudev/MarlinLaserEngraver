@@ -80,13 +80,13 @@
 #define X_DIR_PIN                            130
 #define X_ENABLE_PIN                         128
 
-#define Y_STEP_PIN                           132  // Y
-#define Y_DIR_PIN                            133
-#define Y_ENABLE_PIN                         131
+#define Y_STEP_PIN                           135  // Y
+#define Y_DIR_PIN                            136
+#define Y_ENABLE_PIN                         134
 
-#define Z_STEP_PIN                           135  // Z1
-#define Z_DIR_PIN                            136
-#define Z_ENABLE_PIN                         134
+#define Z_STEP_PIN                           132  // Z1
+#define Z_DIR_PIN                            133
+#define Z_ENABLE_PIN                         131
 
 #define E0_STEP_PIN                          138  // E0
 #define E0_DIR_PIN                           139
